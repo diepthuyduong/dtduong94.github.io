@@ -10,4 +10,5 @@ module.exports = {
         { text: 'Ehkoo', link: 'https://ehkoo.com' },
       ],
     },
+    dest: 'docs',
   };
